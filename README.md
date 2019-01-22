@@ -1,4 +1,4 @@
-# `wasm_demo_contour` - [https://mthh.github.io/wasm_demo_contour/](https://mthh.github.io/wasm_demo_contour/)
+#### `wasm_demo_contour` : [https://mthh.github.io/wasm_demo_contour/](https://mthh.github.io/wasm_demo_contour/)
 
 Wasm demo of [contour](https://github.com/mthh/contour-rs) rust library compiled to webassembly and bundled using [parcel](https://github.com/parcel-bundler/parcel).
 
