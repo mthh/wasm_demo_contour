@@ -1001,4 +1001,4 @@ var e,n="/home/mthh/code/wasm_demo_contour/node_modules/parcel-plugin-wasm.rs";c
 },{"fs":"sC8V"}],0:[function(require,module,exports) {
 var b=require("z1Am");b.register("wasm",require("ocK6"));b.load([["wasm_demo_contour_bg.188df392.wasm","tU0k"]]).then(function(){require("QvaY");});
 },{}]},{},[0], null)
-//# sourceMappingURL=/js.a8f02c9b.js.map
+//# sourceMappingURL=js.a8f02c9b.js.map
