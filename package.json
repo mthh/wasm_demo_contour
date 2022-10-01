@@ -1,7 +1,7 @@
 {
   "author": "Matthieu Viry<matthieu.viry@cnrs.fr>",
   "name": "wasm_demo_contour",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repository": "https://github.com/mthh/wasm_demo_contour",
   "license": "Apache-2.0/MIT",
   "scripts": {
