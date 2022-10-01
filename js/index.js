@@ -41,7 +41,6 @@ context.translate(-0.5, -0.5);
 d3timer((t) => {
   const dv = _dv(t);
   const n_thresholds = new Float64Array(thresholds.map(v => v + dv));
-  console.log(n_thresholds);
   const result = JSON.parse(wasmModule.make_contours(_values, n_thresholds, n + 2, m + 2));
   result.features.forEach(fill);
 });
